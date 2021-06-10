@@ -1,0 +1,11 @@
+{
+  "name": "tron",
+  "version": "1.0.0",
+  "dependencies": {
+    "bip32": "^2.0.6",
+    "create-hash": "^1.2.0",
+    "create-hmac": "^1.1.7",
+    "elliptic": "^6.5.4",
+    "ethereumjs-util": "^7.0.10"
+  }
+}
